@@ -19,4 +19,6 @@ iv) If you have mysql database then run the databasecreation.py file or you need
 v) Then run main.py by "streamlit run main.py"
 vi) You can check on your browser the web app has opened and there you can input the 5 classes Images which are present in the dataset.
 
+![output](https://github.com/ShobhitAgarwal01/Flower-Image-Classifier/assets/86686578/4eee1336-b4a4-4d95-aa3d-64962cb1388f)
+
 "The Project is constantly under development phase."
