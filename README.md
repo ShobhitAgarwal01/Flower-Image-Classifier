@@ -4,10 +4,10 @@ Flower-Image-Classifier is a Machine Learning Project Where it is deployed with 
 This Project classifies which species does the flower belong too and returns the output that what flower species did the model predict. The Models used in this project does give accuracy of more than 90%. The Models/data are still in the development phase where I am constantly collecting the data and trying to learn more about the Neural Networks.
 
 Due to Data & Model Size being Large I am Providing the Google Drive Link so if you want to Have access to the base database and the trained Models you need to get these.
-Google Drive Models Link: 
+Google Drive Link For Trained Models: 
 https://drive.google.com/drive/folders/1NTuaUsqAzz19q2gj9y7WQJKp6DObu9oK?usp=share_link
 
-Google Drive DataSet Link: 
+Google Drive Link For Trained DataSets: 
 https://drive.google.com/drive/folders/1wSxgG_oIBRfUber2ywJFmkt-6lENlCB0?usp=share_link
       
 Steps to Follow to run this project:
@@ -21,4 +21,4 @@ vi) You can check on your browser the web app has opened and there you can input
 
 ![output](https://github.com/ShobhitAgarwal01/Flower-Image-Classifier/assets/86686578/4eee1336-b4a4-4d95-aa3d-64962cb1388f)
 
-"The Project is constantly under development phase."
+"The Project will be in development while it can support multiple Inputs at a time and more no.of flower data and much better Machine Learning Model with more time trained and better accuracy."
